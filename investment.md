@@ -15,6 +15,7 @@ The authors break returns down into multiple expansion and economic performance 
 ### Volatility drag and diversification return: AM-GM and the central limit theorem
 
 Volatility drag: The difference between arithmetic and geometric returns.
+
 Diversification return: The difference between the (geometric) return of the portfolio and the weighted (geometric) return of its components.
 
 Presumably we care about final wealth rather than the (geometric) growth rate of wealth. As losses are capped at 100% and gains are effectively unbounded, stock returns are positively skewed. It turns out that they (*very*) roughly follow a log-normal distribution. For a log-normal distribution, the median is equal to the geometric mean. In particular, it is less than the arithmetic mean, so the typical final wealth is less than the expected final wealth. By averaging multiple (ideally independent, or even negatively dependent) log-normal random variables, we increase the probability of including a large positive return, improving the median outcome.
