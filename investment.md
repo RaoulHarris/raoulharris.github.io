@@ -1,4 +1,8 @@
-### Defining risk: stocks vs. bonds
+* [Risky assets](#risky-assets)
+* [Global diversification](#global-diversification)
+* [Volatility drag and diversification return](#volatility-drag-and-diversification-return)
+
+### Risky: assets
 
 Link will go here.
 
@@ -12,7 +16,7 @@ The authors break returns down into multiple expansion and economic performance 
 
 * Asness, C.S., Israelov, R. and Liew, J.M., 2011. International diversification works (eventually). Financial Analysts Journal, 67(3), pp.24-38. (https://www.cfapubs.org/doi/pdf/10.2469/faj.v67.n3.1)
 
-### Volatility drag and diversification return: AM-GM and the central limit theorem
+### Volatility drag and diversification return
 
 Volatility drag: The difference between arithmetic and geometric returns.
 
