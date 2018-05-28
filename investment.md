@@ -22,7 +22,7 @@ Over the short term (up to about 24 months), the worst case returns for the glob
 
 The authors break returns down into multiple expansion and economic performance (measured by dividends and dividend growth). While multiple expansion dominates in the short run, country-specific economic performance has a greater impact over longer periods.
 
-* Asness, C.S., Israelov, R. and Liew, J.M., 2011. International diversification works (eventually). Financial Analysts Journal, 67(3), pp.24-38. (https://www.cfapubs.org/doi/pdf/10.2469/faj.v67.n3.1)
+* Asness, C.S., Israelov, R. and Liew, J.M., 2011. International diversification works (eventually). Financial Analysts Journal, 67(3), pp.24-38. ([https://www.cfapubs.org/doi/pdf/10.2469/faj.v67.n3.1](https://www.cfapubs.org/doi/pdf/10.2469/faj.v67.n3.1))
 
 ### Volatility drag and diversification return: AM-GM and the central limit theorem
 
