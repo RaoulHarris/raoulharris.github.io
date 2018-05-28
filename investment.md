@@ -1,8 +1,8 @@
-* [Risky assets](#risky-assets)
+* [Risky assets](#risky-assets-stocks-vs-bonds)
 * [Global diversification](#global-diversification)
-* [Volatility drag and diversification return](#volatility-drag-and-diversification-return)
+* [Volatility drag and diversification return](#volatility-drag-and-diversification-return-am-gm-and-the-central-limit-theorem)
 
-### Risky assets
+### Risky assets: stocks vs. bonds
 
 Historically, equity returns have dominated bond returns over reasonable time scales, not only performing better in the best cases but also in the worst cases, despite greater volatility.
 
@@ -22,7 +22,7 @@ The authors break returns down into multiple expansion and economic performance 
 
 * Asness, C.S., Israelov, R. and Liew, J.M., 2011. International diversification works (eventually). Financial Analysts Journal, 67(3), pp.24-38. (https://www.cfapubs.org/doi/pdf/10.2469/faj.v67.n3.1)
 
-### Volatility drag and diversification return
+### Volatility drag and diversification return: AM-GM and the central limit theorem
 
 Volatility drag: The difference between arithmetic and geometric returns.
 
