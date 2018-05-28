@@ -2,9 +2,15 @@
 * [Global diversification](#global-diversification)
 * [Volatility drag and diversification return](#volatility-drag-and-diversification-return)
 
-### Risky: assets
+### Risky assets
 
-Link will go here.
+Historically, equity returns have dominated bond returns over reasonable time scales, not only performing better in the best cases but also in the worst cases, despite greater volatility.
+
+![Real returns for stocks and bonds](images/stocks-and-bonds.png)
+
+We can also view the differences in terms of final wealth:
+
+![Real final wealth for stocks and bonds](images/stocks-and-bonds-wealth.png)
 
 ### Global diversification
 
