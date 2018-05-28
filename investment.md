@@ -18,6 +18,8 @@ Asness, Israelov and Liew (2011) compare drawdowns for local portfolios (investe
 
 Over the short term (up to about 24 months), the worst case returns for the global portfolios are on average similar to/slightly better than those of the local portfolios. The difference increases with time for the equal-weighted global portfolio but not for the cap-weighted one, suggesting that global diversification can reduce risk over reasonable time scales, even in the absence of hedging, but that cap-weighted indices do not provide sufficient diversification. (Alternatively, the equal-weighted portfolios may have a value tilt compared to the cap-weighted portfolios.)
 
+![Asness, Israelov and Liew (2011) Figure 7](images/globaldiversification-fig7.JPG)
+
 The authors break returns down into multiple expansion and economic performance (measured by dividends and dividend growth). While multiple expansion dominates in the short run, country-specific economic performance has a greater impact over longer periods.
 
 * Asness, C.S., Israelov, R. and Liew, J.M., 2011. International diversification works (eventually). Financial Analysts Journal, 67(3), pp.24-38. (https://www.cfapubs.org/doi/pdf/10.2469/faj.v67.n3.1)
