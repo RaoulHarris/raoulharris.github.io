@@ -1,2 +1,2 @@
-[Facebook](www.facebook.com/raoul.harris)
-[LinkedIn](www.linkedin.com/in/raoul-harris)
+[Facebook](https://www.facebook.com/raoul.harris)
+[LinkedIn](https://www.linkedin.com/in/raoul-harris)
